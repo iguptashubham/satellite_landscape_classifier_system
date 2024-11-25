@@ -18,7 +18,7 @@ To run this project, you need to have Python 3.x and the necessary libraries ins
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/satellite_landscape_classification.git](https://github.com/iguptashubham/satellite_landscape_classifier_system.git)
+    git clone https://github.com/iguptashubham/satellite_landscape_classifier_system.git
     cd satellite_landscape_classification
     ```
 
