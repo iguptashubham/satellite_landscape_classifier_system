@@ -1,6 +1,7 @@
 
 
 # Satellite Landscape Classification System (SLCS) using MobileNetV2
+![p4](https://github.com/user-attachments/assets/55f3c6cc-e6b9-4efb-8e60-5d8e913d6c1b)
 
 ## Overview
 The Satellite Landscape Classification System (SLCS) leverages the MobileNetV2 architecture to classify satellite images into distinct landscape categories. This project aims to provide an efficient and accurate solution for remote sensing and environmental monitoring applications.
